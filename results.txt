@@ -1,0 +1,32 @@
+NTFS Autodetect Test #1
+
+Tool: 
+Version: 
+
+
+1.  Import the 10-ntfs-disk.dd image into your analysis tool.  
+
+1a.  Does the tool warn you that multiple file systems exist in the
+first partition?  If not, which file system is shown (you can easily
+determine this based on the name of the file in the root directory)?
+
+
+1b.  Does the tool warn you that multiple file systems exist in the
+second partition?  If not, which file system is shown?
+
+
+2.  Import the 10-ntfs-part1.dd image into your analysis tool.  Does
+the tool warn you that multiple file systems exist in the partition?
+If not, which file system is shown?
+
+
+3.  Import the 10-ntfs-part2.dd image into your analysis tool.  Does
+the tool warn you that multiple file systems exist in the partition?
+If not, which file system is shown?
+
+
+4.  Import the 10-ntfs-part3.dd image into your analysis tool.  Does
+the tool warn you that multiple file systems exist in the partition?
+If not, which file system is shown?
+
+
